@@ -14,4 +14,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-![Workday-Scheduler-Challenge-Screenshot](https://user-images.githubusercontent.com/77178392/111892139-aafa6a80-89c6-11eb-89d6-986e8ac906a1.png)
+![Workday-Scheduler-Challenge-Screenshot](https://user-images.githubusercontent.com/77178392/111917285-30c0f900-8a4d-11eb-879f-14783655d0a7.png)
+
